@@ -21,4 +21,4 @@ jobs:
           pip install praw gspread oauth2client  # List all your dependencies
 
       - name: Run script
-        run: python your_script.py  # Replace 'your_script.py' with your script filename
+        run: python main.py  # Replace 'your_script.py' with your script filename
