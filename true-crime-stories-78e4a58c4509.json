@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "true-crime-stories",
+  "private_key_id": "78e4a58c45094b0280cd7402364d70060e64e88a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDDbF314rNMhm6I\nvyIkEJiQaDc1H6aQlwj/ytYoyUecPrw3PkpCaOGOxJIfYGBZrRVYDgPKFacnczve\nMRPlYt8lbKqVnkBpmQRj0NjEsyJ7dnZ5dhcVUahQ2n62Z90sNJseewu24Du4s9g2\n819+CwpRXYWSUC9eElI43YrrLA9rcrOzf8CtCzgYHa+WSUuYFWfZrOziTWJZN0lT\nwvqkoY2tgjJ/fUg7L5JHLsovFDnITmLgn9iOnhKS8YsnEjxcIZxcl5u7hTWuFi3Q\nkJJ5pTZ2jeJ8eRD5+mt6hnbBrlB3HG52rKCZxXdwrU9OB9IdnCYGiIJn3b+2nF1W\nEFHT3lMpAgMBAAECggEABmJa63Z9fwmBQOxllCIKqeUNsKmZCm40uA6LUofI1Bzk\njzV0vZipjb10PJwsaaGS6e6DRy3P6SUFlqupx7ukKJfVNtAVsJ10HEKtYjer77ae\nBjfKZ0LkqceJjjH0csZBLwy8BDxtFwqhDKKEwxxfOOtCOtZtxbf5gawTJr2ov0zQ\nVuC06lj/JvVkNbq51s9fAp2rgI76dAfEfSbfCCiZxf8CwG+vFWKiRpHG2QmGwKHt\nHa+/mejBPqYyxW5UOOkqIACZzEoWwFkPc7DqawRL3fDfWzJMCQlYQgFTip1ZwwVd\nZQ6hbyg3+FhxeMrUt8Xzd4bATXuK4z10TjcZPC4kEQKBgQDuwA7DXunNALK5sXPm\nthzn6IwhFsYizhY3YO5/NkpGUowH9HIIR2pdfy9CSPX3cfMSA5mkO2KBrbw6aFjK\nB/Zoss5pfPzrZWQ8K9JoYDznFICfEBdPM1muL4BSB+d4dUA57oZQns82xau7m70T\na0ON1E+W/El2CV8OyO04ekzGlQKBgQDRiu5xhWHtMHZrTCZlDsjQDjjQyifUaE7N\nrv2XpWMf02UJujjdDy+LcgVXBFMiZJ+9esDwVJ/8lHIBwN1b8MJ0NhMdVSUKvWsQ\nC0pJrINYzPqTKyNQQ4iNEHv5csPPO/TJd0mG43K1x4i2lTM/hW1e/AfqjidQo0Y1\nmcNjkddZRQKBgQCQ+Al+0/j/Q7dCTd/kbRwsLOY5iUySAbU3tyHaGKsM/D6O7fz3\nzfVmBD4773V65LQFci4urOhpeYbbqFSRiDg05q2zG/OvM4ejibBfNGCGp8pZyzl8\nG+AOhkVSif4hBIEVLCJefa+wwGJArpYmXnFMg2g4c8Rfad1Qauyv6IMJ6QKBgQCA\nVyOsDBHqgKBHH6D0jJWaONu7pdW3VxvNBrzzwKxxtbxQtOpXGxH3yqJSpad1jUP5\nfdHmYS6MOS+Ku2HZCiFPpD8Y3CmP5mxIq2GYtjzMit9+fBFo+7QLEmmcYxpjN0m6\ni4FRSMXdaJTnn4KACWzvnFYM53xU+2vpMIBn38+SMQKBgQDMXYJRE09UL4DbbY2h\nbq5Z0f5G5MFX0JciUmziO3c7MHckefxGAgCV/zmpaaVcZGPvUzJRfnbQsBYQJQKF\n9zzr6R6LoQMLAZQwAwiuPUjKoUkntSU+6yJi8iDmuEC32pA+BV7X1l3U/QJruQtQ\nn2q1ULpSnx558m5YssEbSfqY5g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "true-crime-service-account@true-crime-stories.iam.gserviceaccount.com",
+  "client_id": "103228331642552585104",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/true-crime-service-account%40true-crime-stories.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
